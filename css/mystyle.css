@@ -1,0 +1,91 @@
+.TextShadow_for_certain_part_Soleimany{
+    /* text-shadow: 2px 5px 5px red; */
+    text-shadow: -2px 0 red, 0 2px red, 2px 0 Red, 0 -2px Red;
+}
+.style_for_titr_soleimany{
+    color:red;position: relative;bottom: 44px;font-size: xx-large;
+}
+.style_for_content_poshtibani_soleimany{
+    margin: 29px;
+}
+.for_posisionaning_of_button_soleimany{
+    position: relative;
+    top: 18px;
+}
+.for_position_button2_soleimany{
+    position: relative;
+    top: 66px;
+
+}
+.for_posisioning_box_about_me{
+    position: relative;
+    right: 0px;
+    direction: rtl;
+}
+.for_posisionaning_of_Part_of_Footer_Right_Part_container_soleimany{
+    float: right;
+    direction: rtl;
+    position: relative;
+    bottom: 36px;
+    top:10px;
+}
+
+
+.For_multy_of_item_is_gray{
+    color:rgba(255, 255, 255, 0.8);
+}
+
+@media only screen and (max-width: 425px){
+.For_mobile_view_for_social_network{
+    display: inline;
+    width: 70px;    
+    padding: 7px;
+}
+}
+@media only screen and (max-width: 768px){
+    .For_tablet_mobile_view_for_social_network{
+        display: inline;
+        width: 58px;
+        padding: 0px;
+    }
+    }
+    
+@media only screen and (max-width: 320px){
+.For_small_mobile_view_for_social_network{
+    display: inline;
+    width: 60px;
+}
+}
+
+.for_size_icon_of_technical_service_soleimany{
+    width: 61px;
+    padding-right: 30px;
+}
+.for_posisionaning_of_part2_of_technical_services{
+    float: right;
+    position: relative;
+    left: 15px;
+}
+.for_posisionaning_of_part2_of_technical_services_for_cabling{
+    position: relative;
+    right: 13px;
+}
+@media only screen and (max-width: 2000px){
+    .container_of_elemans_of_technical_service{
+        position: relative;right: 50px;
+    }
+    }
+    @media only screen and (max-width: 1024px){
+        .container_of_elemans_of_technical_service{
+            position: relative;right: 10px;
+        }
+        }
+@media only screen and (max-width: 600px){
+.container_of_elemans_of_technical_service{
+    position: relative;right: 10px;
+}
+}
+
+
+
+  
